@@ -1,0 +1,15 @@
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\bin\Debug\net6.0\02-ComandoRepeticao_While.exe
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\bin\Debug\net6.0\02-ComandoRepeticao_While.deps.json
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\bin\Debug\net6.0\02-ComandoRepeticao_While.runtimeconfig.json
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\bin\Debug\net6.0\02-ComandoRepeticao_While.dll
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\bin\Debug\net6.0\02-ComandoRepeticao_While.pdb
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.csproj.AssemblyReference.cache
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.AssemblyInfoInputs.cache
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.AssemblyInfo.cs
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.csproj.CoreCompileInputs.cache
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.dll
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\refint\02-ComandoRepeticao_While.dll
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.pdb
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\02-ComandoRepeticao_While.genruntimeconfig.cache
+C:\Users\andreiasantos\Documents\ATIVIDADES_tecnologia\SegundaSolucao\02-ComandoRepeticao_While\obj\Debug\net6.0\ref\02-ComandoRepeticao_While.dll
